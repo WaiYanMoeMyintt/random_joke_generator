@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffc32f;
+   font-family: "Nunito Sans", sans-serif;
+}
+.joke-content{
+    background-color: #08323f;
+    color: #fff;
+    padding: 1rem 2rem;
+    width: 450px;
+    height: 350px;
+    border-radius: .5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+}
+.joke-content .joke-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.quote_title{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    border-radius: .5rem;
+    font-family: "Nunito Sans", sans-serif;
+    outline: none;
+    border: none;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+button:active{
+    transform: scale(1.01);
+}
