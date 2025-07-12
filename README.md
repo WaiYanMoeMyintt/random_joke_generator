@@ -10,7 +10,7 @@ It’s perfect for anyone who’s just starting with **HTML, CSS, and JavaScript
 ## 📸 Screenshot
 
 ![Random Joke Generator Screenshot](./src/demo.png)  
-> _Add your actual image to the `/` folder and update the filename if needed._
+
 
 ---
 
