@@ -6,17 +6,11 @@ It’s perfect for anyone who’s just starting with **HTML, CSS, and JavaScript
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click to Try the App](#)  
-> _Replace with your hosted project link (e.g., GitHub Pages or Netlify)._
-
----
 
 ## 📸 Screenshot
 
 ![Random Joke Generator Screenshot](./src/demo.png)  
-> _Add your actual image to the `assets/` folder and update the filename if needed._
+> _Add your actual image to the `/` folder and update the filename if needed._
 
 ---
 
